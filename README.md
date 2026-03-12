@@ -7,4 +7,7 @@ Education course of design databases and work with PostgreSQL +SQLAlchemy.
 Education course of design graph models.
 
 # ML
-Education course of machine learning and big data. Work with neural networks with TensorFlow.
+Education course of machine learning and big data. Design neural networks with TensorFlow.
+
+# ProgEng
+Education course of programm engineering. Neo4j
