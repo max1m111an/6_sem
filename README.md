@@ -11,3 +11,6 @@ Education course of machine learning and big data. Design neural networks with T
 
 # ProgEng
 Education course of programm engineering. Neo4j
+
+# Modeling
+Education course of modeling and analysis in GNU Octave (MATLAB).
