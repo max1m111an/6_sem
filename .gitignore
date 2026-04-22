@@ -208,5 +208,7 @@ __marimo__/
 
 logs
 memotion_dataset_7k
-test.py
+test.*
 data/
+*.exe
+CMake*

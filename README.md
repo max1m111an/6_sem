@@ -10,7 +10,4 @@ Education course of design graph models.
 Education course of machine learning and big data. Design neural networks with TensorFlow.
 
 # ProgEng
-Education course of programm engineering. Neo4j
-
-# Modeling
-Education course of modeling and analysis in GNU Octave (MATLAB).
+Education course of programm engineering. +Neo4j +Airflow +ClickHouse
