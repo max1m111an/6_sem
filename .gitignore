@@ -212,3 +212,4 @@ test.*
 data/
 *.exe
 CMake*
+.vscode
