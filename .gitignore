@@ -209,6 +209,7 @@ __marimo__/
 logs
 memotion_dataset_7k
 test.*
+train.*
 data/
 *.exe
 CMake*
